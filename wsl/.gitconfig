@@ -1,0 +1,11 @@
+[alias]
+	st = status
+[core]
+	editor = vim
+[user]
+	name = Nic Cornia
+	email = nscornia@gmail.com
+[push]
+	default = simple
+[credential]
+	helper = cache --timeout 3600
